@@ -11,12 +11,12 @@ fr:
   Service: Servicios
   subscribe: SUBSCRIBIR
   listing: PUBLICAR UN HOSPITAL
-  title_html: <h4 style="font-family:Calibri", align="center"><font color="004bb3"><font size="8">Todo en Servicios de Salud - Solo Servicios de Salud</font></font></h4>
-  subtitle_html:  <font color="ff0019"><h2 style="font-family:Calibri"><strong>Que servicio desea encontrar?</strong></h2></font>
+  title_html: <h4 style="font-family:Calibri", align="center"><font color="00699f"><font size="8">Todo en Servicios de Salud - Solo Servicios de Salud</font></font></h4>
+  subtitle_html:  <font color="237c1f"><h2 style="font-family:Calibri"><strong>Que servicio desea encontrar?</strong></h2></font>
         <p class="lead"></p>
-  semititle_html:  <font color="004bb3"><h3 class="panel-title", style="font-family:Calibri"><strong>HOSPITALES</strong></h3></font>
-  csemititle_html: <font color="004bb3"><h3 class="panel-title", style="font-family:Calibri"><strong>FARMACIAS Y LABORATORIOS</strong></h3></font>
-  ssemititle_html: <font color="004bb3"><h3 class="panel-title", style="font-family:Calibri"><strong>DOCTORES</strong></h3></font>
+  semititle_html:  <font color="00699f"><h3 class="panel-title", style="font-family:Calibri"><strong>HOSPITALES</strong></h3></font>
+  csemititle_html: <font color="00699f"><h3 class="panel-title", style="font-family:Calibri"><strong>FARMACIAS Y LABORATORIOS</strong></h3></font>
+  ssemititle_html: <font color="00699f"><h3 class="panel-title", style="font-family:Calibri"><strong>DOCTORES</strong></h3></font>
   navbar_home: Pagina Principal
   navbar_memberships: Anunciar un Servicio de Salud
   navbar_search: Buscar
