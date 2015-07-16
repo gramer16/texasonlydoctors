@@ -3,7 +3,7 @@ Rails.application.routes.draw do
 
   
 
-  scope "(:locale)", locale: /fr|en/ do
+  scope "(:locale)", locale: /en|fr/ do
   
   resources :plans 
        
