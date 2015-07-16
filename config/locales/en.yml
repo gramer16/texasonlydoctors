@@ -21,7 +21,7 @@
 
 en:
   Purchase_or_Lease: Search
-  Service: Services
+  Service: Search Physicians
   subscribe: SUBSCRIBE
   listing: POST A HOSPITAL
   title_html: <h4 style="font-family:Calibri", align="center"><font color="00699f"><font size="8">Everything Healthcare - Only Healthcare</font></font></h4>
@@ -74,7 +74,7 @@ en:
   searchbtn: Search
   searchservices: SEARCH
   add_service: Add a Service
-  servicestitle_html:  <h2 style="font-family:Arial">All Honduras Healthcare Services</h2>
+  servicestitle_html:  <h2 style="font-family:Arial">All Texas Healthcare Services</h2>
   listed_by: Listed By %{user}
   new_residential: Add New Hospital
   new_commercial: Add Pharmacy or Laboratory
@@ -160,7 +160,7 @@ en:
   wsubtitle_html: <font color="bf0a30"><h4 style="font-family:Calibri"><strong>**Ask about our Website Development Service for your business by D&G Global to link your business with Ontario's Only to maximize your clients.**</strong></h4></font>
         <p class="lead"></p>
   contact_html: <h4 style="font-family:Calibri"><strong>Contact Us:</strong></h4>
-  about_html: <h4 style="font-family:Calibri"> <strong> About Us:</strong></h4><h6>Hondura's Only Healthcare is an online marketing company that offers professional advertising service to all the healthcare professionals and businesses in the country of Honduras and Worldwide.</h6>
+  about_html: <h4 style="font-family:Calibri"> <strong> About Us:</strong></h4><h6>Texas's Only Healthcare is an online marketing company that offers professional advertising service to all the healthcare professionals and businesses in the state of Texas USA and Worldwide.</h6>
   companyinfo: ENTER YOUR COMPANY INFORMATION
   follow_html: <h4 style="font-family:Calibri"><strong>FOLLOW US<strong></h4>
   jumbotron_title_html: <h2>Advertise a Healthcare Service</h2>

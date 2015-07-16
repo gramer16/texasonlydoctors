@@ -25,8 +25,8 @@ fr:
   navbar_english: Ingles
   navbar_french: Espanol
   navbar_account: Inscribirse o Conectarse
-  navbar_create: Crear una cuenta Honduras Only
-  navbar_signin: Iniciar Sesion en Honduras Only
+  navbar_create: Crear una cuenta Texas Only
+  navbar_signin: Iniciar Sesion en Texas Only
   navbar_notmember: No es un Miembro?
   navbar_member: Es un Miembro?
   navbar_residential: Listado de Hospitales
@@ -59,7 +59,7 @@ fr:
   searchbtn: Busqueda
   searchservices: BUSQUEDA
   add_service: Agregar un Servicio
-  servicestitle_html: <h2 style="font-family:Arial">Todos los Servicios de Salud en Honduras</h2>
+  servicestitle_html: <h2 style="font-family:Arial">Todos los Servicios de Salud en Texas</h2>
   listed_by: Posteado por %{user}
   new_residential: Agregar un Nuevo Hospital
   new_commercial: Agregar una Nueva Farmacia
@@ -146,7 +146,7 @@ fr:
   wsubtitle_html: <font color="bf0a30"><h4 style="font-family:Calibri"><strong>*Pregunte por nuestro servicio de Desarrollo de Sitios Web para su negocio por D & G Global y vincular su negocio con Honduras Only</strong></h4></font>
         <p class="lead"></p>
   contact_html: <h4 style="font-family:Calibri"> <strong> Contactenos:</strong></h4>
-  about_html: <h4 style="font-family:Calibri"><strong> Quienes somos:</strong></h4><h6>Honduras Only es una empresa de marketing en línea que ofrece un servicio profesional de la publicidad a todos los profesionales del sector de Medicina en toda la republica de Honduras y el mundo</h6>
+  about_html: <h4 style="font-family:Calibri"><strong> Quienes somos:</strong></h4><h6>Texas Only Healthcare es una empresa de marketing en línea que ofrece un servicio profesional de la publicidad a todos los profesionales del sector de Medicina en todo el Estado de Texas en Estados Unidos y el mundo</h6>
   follow_html: <h4 style="font-family:Calibri"><strong>SIGANOS EN<strong></h4>
   companyinfo: INFORMACION DE LA EMPRESA
   jumbotron_title_html: <h2>Anunciar un Servicio de Medicina</h2>
