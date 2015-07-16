@@ -24,12 +24,12 @@ en:
   Service: Search Physicians
   subscribe: SUBSCRIBE
   listing: POST A HOSPITAL
-  title_html: <h4 style="font-family:Calibri", align="center"><font color="00699f"><font size="8">Everything Healthcare - Only Healthcare</font></font></h4>
+  title_html: <h4 style="font-family:Calibri", align="center"><font color="004bb3"><font size="8">Everything Healthcare - Only Healthcare</font></font></h4>
   subtitle_html:  <font color="237c1f"><h2 style="font-family:Calibri"><strong>What are you Looking for?</strong></h2></font>
         <p class="lead"></p>
-  semititle_html:  <font color="00699f"><h3 class="panel-title", style="font-family:Calibri"><strong>HOSPITALS</strong></h3></font>
-  csemititle_html: <font color="00699f"><h3 class="panel-title", style="font-family:Calibri"><strong>PHARMACIES AND LABORATORIES</strong></h3></font>
-  ssemititle_html: <font color="00699f"><h3 class="panel-title", style="font-family:Calibri"><strong>PHYSICIANS</strong></h3></font>
+  semititle_html:  <font color="004bb3"><h3 class="panel-title", style="font-family:Calibri"><strong>HOSPITALS</strong></h3></font>
+  csemititle_html: <font color="004bb3"><h3 class="panel-title", style="font-family:Calibri"><strong>PHARMACIES AND LABORATORIES</strong></h3></font>
+  ssemititle_html: <font color="004bb3"><h3 class="panel-title", style="font-family:Calibri"><strong>PHYSICIANS</strong></h3></font>
   navbar_home: Home
   navbar_memberships: Advertise a Healthcare Service
   navbar_search: Find All in Healthcare
