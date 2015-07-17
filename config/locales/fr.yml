@@ -150,15 +150,15 @@ fr:
   follow_html: <h4 style="font-family:Calibri"><strong>SIGANOS EN<strong></h4>
   companyinfo: INFORMACION DE LA EMPRESA
   jumbotron_title_html: <h2>Anunciar un Servicio de Medicina</h2>
-  businessname: Nombre de la Empresa
-  website: Pagina Web Empresarial
+  businessname: Nombre del Doctor
+  website: Pagina Web del Doctor
   address: Direccion
   zipcode: Codigo Postal
   city: Ciudad
-  businessphone: Telefono de la Empresa
-  description: Perfil de la Empresa
+  businessphone: Telefono de la Clinica
+  description: Perfil del Doctor
   contactname: Nombre de Contacto
-  businessemail: Correo de Empresa
+  businessemail: Correo de Doctor
   plan: POR FAVOR SELECCIONE UN PLAN DE PUBLICIDAD
   paymentinfo: INFORMACION DE PAGO
   name: Nombre Completo
@@ -230,7 +230,7 @@ fr:
   addservice: Agregar un Servicio de Salud
   searchresults_html: <h4><strong>BUSQUEDA:</strong></h4><br>
   back: Regresar
-  companycontactname: Nombre de la Persona de Contacto
+  companycontactname: Nombre del Doctor 
   companyservicephone: Telefono
   generalcompany: Detalles del Hospital, Profesional de Medicina o Laboratorio
   mapview: Vista en el Mapa
