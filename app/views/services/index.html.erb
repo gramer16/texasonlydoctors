@@ -25,7 +25,8 @@
       <div class="thumbnail">
         <%= link_to image_tag(service.image.url), service %>
         <div class="caption">
-          <h4><strong><%= service.company_name %></strong></h4>
+          <h4><strong><%= service.company_name %></strong></h4><br>
+          <h3><strong><%= service.service_type %></strong></h3>
           <strong><th><%= label_tag :nil, t('servicecompanywebsite') %></th></strong><br>
             <%= link_to service.company_website, service.company_website, :target => "_blank" %><br>
             <strong><th><%= label_tag :nil, t('servicecompanyphone') %></th></strong><br>
