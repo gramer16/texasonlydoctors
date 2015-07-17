@@ -227,7 +227,7 @@ en:
   jumbotron_windowtitle_html: <h2>Ventanas</h2>
   jumbotron_missingservicestitle_html: <h2>Physicians</h2>
   jumbotron_asphalttitle_html: <h2>Cardiologist</h2>
-  searchservice_html: <h4><strong>Find a Healthcare Service</strong></h4>
+  searchservice_html: <h4><strong>Find a Physician</strong></h4>
   jumbotron_subscriptiontitle_html: <h2>HEALTHCARE SERVICES SUBSCRIBED</h2>
   companynamesubscription_html: <strong><th class="center">Company Name</th></strong>
   companysitesubscription_html: <strong><th class="center">Company Website</th></strong>
@@ -238,13 +238,13 @@ en:
   actionsubscription_html: <th class="center">Action</th>
   image_html: <th class="center">Image</th>
   add_subscription: SUBSCRIBE
-  servicecompanywebsite: Company Website
-  servicecompanyphone: Company Phone
+  servicecompanywebsite: Physician Website
+  servicecompanyphone: Clinic Phone
   servicecompanyaddress: Address
-  addservice: New Real Estate Service
+  addservice: New Healthcare Service
   searchresults_html: <h4><strong>SEARCH RESULTS:</strong></h4><br>
   back: Back
-  companycontactname: Company Contact Name
-  companyservicephone: Company Phone
-  generalcompany: Company Information Details
+  companycontactname: Physician Contact Name
+  companyservicephone: Clinic Phone
+  generalcompany: Physician Details
   mapview: Map View Location
