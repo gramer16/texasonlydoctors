@@ -26,7 +26,8 @@
             <th><strong>Hospital Phone:</strong></th><%= residential.realtorphonenumber %><br>
              <th><%= label_tag :nil, t('city') %></th><br><%= residential.city %><br>
              <th><%= label_tag :nil, t('zipcode') %></th><br><%= residential.zip_code %><br>
-             <th><strong>Contact Email:</strong></th> <%= residential.realtoremail %><br>
+             <th><strong>Hospital Website:</strong></th> 
+              <%= link_to residential.realtoremail, residential.realtoremail, :target => "_blank" %><br>
             
 
           </p>
