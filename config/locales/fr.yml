@@ -112,7 +112,7 @@ fr:
   propertyfirm_html: <h3 class="panel-title">EMPRESAS DE GESTIÓN DE LA PROPIEDAD</h3>
   poolcleaner_html: <h3 class="panel-title">LIMPIADORES DE PISCINAS</h3>
   poolrepair_html: <h3 class="panel-title">REPARACION DE PISCINAS</h3>
-  realtor_html: <h3 class="panel-title">AGENTES INMOBILIARIOS</h3>
+  realtor_html: <h3 class="panel-title">ENFERMERAS PROFESIONALES</h3>
   accountant_html: <h3 class="panel-title">CONTADORES</h3>
   lawyer_html: <h3 class="panel-title">ABOGADOS</h3>
   realestate_html: <h3 class="panel-title">EMPRESAS INMBOLIARIAS</h3>
@@ -200,7 +200,7 @@ fr:
   jumbotron_privatefirmtitle_html: <h2>Servicios de Sociedades Privadas</h2>
   jumbotron_propertymanagetitle_html: <h2>Empresas de Administracion de Bienes y Raices</h2>
   jumbotron_realestatetitle_html: <h2>Companias Inmobiliarias</h2>
-  jumbotron_realtortitle_html: <h2>Agentes de Bienes y Raices</h2>
+  jumbotron_realtortitle_html: <h2>Enfermeras Profesionales</h2>
   jumbotron_rentalpropertytitle_html: <h2>Servicios de Renta de Propierdades</h2>
   jumbotron_roofingtitle_html: <h2>Servicios de Techado</h2>
   jumbotron_securitytitle_html: <h2>Servicios de Seguridad</h2>

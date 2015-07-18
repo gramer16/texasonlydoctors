@@ -115,12 +115,13 @@
         <div class="col-md-4 feature">
         <div class="panel">
             <div class="panel-heading">
-                <%= t('cleaning_html') %>
-               
+                <%= t('plumbing_html') %>
+                
             </div>
-             <%= image_tag("hematology.jpg", :size => "100x100", :alt => "Countertop", :style =>"margin-right:25px; margin-top:10px;" ) %>
+              <%= image_tag("familydoctor.jpg", :size => "120x100", :alt => "Mortgage", :style =>"margin-right:25px; margin-top:10px;" ) %>
             <p></p>
-             <%= link_to t('searchservices'), services_path, class: "btn btn-default", data: {no_turbolink: true} %>
+             <%= link_to t('searchservices'), plumbings_path, class: "btn btn-default", data: {no_turbolink: true} %>
+           
         </div>
         </div>
         <div class="col-md-4 feature">
@@ -346,13 +347,13 @@
         </div>
         <div class="col-md-4 feature">
         <div class="panel">
-            <div class="panel-heading">
-                <%= t('mold_html') %>
-                
+             <div class="panel-heading">
+                <%= t('cleaning_html') %>
+               
             </div>
-             <%= image_tag("nutricionist.png", :size => "100x100", :alt => "Mortgage", :style =>"margin-right:25px; margin-top:10px;" ) %>
+             <%= image_tag("hematology.jpg", :size => "100x100", :alt => "Countertop", :style =>"margin-right:25px; margin-top:10px;" ) %>
             <p></p>
-            <%= link_to t('searchservices'), molds_path, class: "btn btn-default", data: {no_turbolink: true} %>
+             <%= link_to t('searchservices'), services_path, class: "btn btn-default", data: {no_turbolink: true} %>
         </div>
         </div>
          <div class="col-md-4 feature">
@@ -368,4 +369,32 @@
             
         </div>
         </div>
+</div>
+<div class="row" id="features">
+        <div class="col-md-4 feature">
+            <div class="panel">
+            <div class="panel-heading">
+                <%= t('mold_html') %>
+                
+            </div>
+             <%= image_tag("nutricionist.png", :size => "100x100", :alt => "Mortgage", :style =>"margin-right:25px; margin-top:10px;" ) %>
+            <p></p>
+            <%= link_to t('searchservices'), molds_path, class: "btn btn-default", data: {no_turbolink: true} %>
+        </div>
+        
+        </div>
+         <div class="col-md-4 feature">
+        <div class="panel">
+            <div class="panel-heading">
+                <%= t('realtors_html') %>
+                
+            </div>
+             <%= image_tag("nurse.png", :size => "100x100", :alt => "Mortgage", :style =>"margin-right:25px; margin-top:10px;" ) %>
+            <p></p>
+            <%= link_to t('searchservices'), realtors_path, class: "btn btn-default", data: {no_turbolink: true} %>
+        </div>
+        <div class="col-md-4 feature">
+        
+        </div>
+        
 </div>
