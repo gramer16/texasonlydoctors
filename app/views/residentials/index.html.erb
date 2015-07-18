@@ -23,8 +23,8 @@
       <div class="caption">
             <h3><strong><%= residential.realtorname %></strong></h3><br>
             <h4><strong><%= residential.address %></strong></h4>
-            <th><strong>Hospital Phone:</strong></th><%= @residential.realtorphonenumber %><br>
-             <th><strong>Contact Email:</strong></th> <%= @residential.realtoremail %><br>
+            <th><strong>Hospital Phone:</strong></th><%= residential.realtorphonenumber %><br>
+             <th><strong>Contact Email:</strong></th> <%= residential.realtoremail %><br>
              <th><%= label_tag :nil, t('city') %></th><br><%= residential.city %><br>
              <th><%= label_tag :nil, t('zipcode') %></th><br><%= residential.zip_code %><br>
             <th><%= label_tag :Status, t('status') %></th> <%= residential.status %><br>
