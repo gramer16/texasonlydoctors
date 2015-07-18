@@ -99,7 +99,7 @@ class ResidentialsController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def residential_params
-      params.require(:residential).permit(:mls_number, :action, :address, :property_type, :bedrooms, :full_bathrooms, :half_bathrooms, :square_feet, :price, :zip_code, :lot_size, :garage, :construction_type, :stories, :year_built, :private_pool, :area_tennis, :wheelchair, :elevator, :patio_deck, :energy_features, :green_certification, :golf_course, :water_view, :water_front, :foreclosure, :status, :city, :florida_mlsarea, :realorlicense, :realtorname, :realtorphonenumber, :realtoremail, :additionalfeatures, :maintenancefee, :keymap, :realorlicense, :image)
+      params.require(:residential).permit(:address, :zip_code, :status, :city, :realtorname, :realtorphonenumber, :realtoremail, :additionalfeatures, :image)
     end
 
     def check_user
