@@ -5,8 +5,14 @@
     <div class="thumbnail">
       <%= image_tag @residential.image.url %>
       <br>
-      <strong>Hospital Description:</strong>  
-      <%= @residential.additionalfeatures %>
+     <h4><strong>General Details</strong></h4>
+    <h5><strong><%= @residential.address %></strong></h5>
+     <strong>New Patients Status:</strong>  
+     <%= @residential.status %>
+      <strong>City:</strong>  
+    <%= @residential.city %>
+     <strong>Zip code:</strong>  
+    <%= @residential.zip_code %>
       <br>
       <br>
       </div>
@@ -14,19 +20,10 @@
       <br>
   </div>
   <div class="col-md-6">
-    <h4><strong>General Details</strong></h4>
-    <h5><strong><%= @residential.address %></strong></h5>
-     <strong>New Patients Status:</strong>  
-     <%= @residential.status %>
+    <strong>Hospital Description:</strong>  
+      <%= @residential.additionalfeatures %>
+    
    </div>
-    <div class ="col-md-6">
-     <strong>City:</strong>  
-    <%= @residential.city %>
-  </div>
-   <div class ="col-md-6">
-    <strong>Zip code:</strong>  
-    <%= @residential.zip_code %>
-  </div>
 </div>
  <br>
 <br>
