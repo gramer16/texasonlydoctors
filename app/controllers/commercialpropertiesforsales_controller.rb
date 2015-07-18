@@ -87,7 +87,7 @@ class CommercialpropertiesforsalesController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def commercialpropertiesforsale_params
-      params.require(:commercialpropertiesforsale).permit(:mls_number, :property_type, :action, :address, :zipcode, :city, :price, :realestatecompany, :officephone, :companywebsite, :listingagent, :emailagent, :agentphone, :assetclass, :totalbuildingSF, :totalunits, :cap_rate, :floorsnumber, :construction_type, :property_description, :parking_total, :elevators, :individual_suiteSQF, :year_completed, :lotsqft, :image)
+      params.require(:commercialpropertiesforsale).permit(:address, :zipcode, :city, :realestatecompany, :officephone, :companywebsite, :property_description, :image)
     end
 
     def check_user
