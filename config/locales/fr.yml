@@ -107,7 +107,7 @@ fr:
   mortgage_html: <h3 class="panel-title">CIRUJANOS</h3>
   mold_html: <h3 class="panel-title">NUTRICIONISTA</h3>
   paint_html: <h3 class="panel-title">UROLOGO</h3>
-  plumbing_html: <h3 class="panel-title">NUTRICIONISTA</h3>
+  plumbing_html: <h3 class="panel-title">MEDICINA GENERAL</h3>
   privatefirm_html: <h3 class="panel-title">EMPRESAS PRIVADAS DE EVALUACIÓN</h3>
   propertyfirm_html: <h3 class="panel-title">EMPRESAS DE GESTIÓN DE LA PROPIEDAD</h3>
   poolcleaner_html: <h3 class="panel-title">LIMPIADORES DE PISCINAS</h3>
@@ -197,7 +197,7 @@ fr:
   jumbotron_poolcleanertitle_html: <h2>Services de Limpieza de Piscina</h2>
   jumbotron_poolrepairtitle_html: <h2>Services de Reparacion de Piscinas</h2>
   jumbotron_privatebanktitle_html: <h2>DEMARTOLOGIA</h2>
-  jumbotron_privatefirmtitle_html: <h2>Servicios de Sociedades Privadas</h2>
+  jumbotron_privatefirmtitle_html: <h2>ONCOLOGIA</h2>
   jumbotron_propertymanagetitle_html: <h2>Empresas de Administracion de Bienes y Raices</h2>
   jumbotron_realestatetitle_html: <h2>Companias Inmobiliarias</h2>
   jumbotron_realtortitle_html: <h2>Enfermeras Profesionales</h2>
