@@ -25,7 +25,6 @@ class HomeinspectorsController < ApplicationController
 
   def create
     @homeinspector = Homeinspector.new(homeinspector_params)
-    @homeinspector.user_id = current_user.id
     respond_to do |format|
       if @homeinspector.save
         format.html { redirect_to @homeinspector, notice: 'Service was successfully created.' }
