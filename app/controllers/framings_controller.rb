@@ -26,7 +26,6 @@ class FramingsController < ApplicationController
 
   def create
       @framing = Framing.new(framing_params)
-      @framing.user_id = current_user.id
     respond_to do |format|
       if @framing.save
         format.html { redirect_to @framing, notice: 'Service was successfully created.' }
